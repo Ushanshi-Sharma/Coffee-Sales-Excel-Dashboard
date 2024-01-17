@@ -7,7 +7,6 @@
 * ##### Excel Pivot Tables
 * ##### Excel Pivot Charts
 * ##### Excel Slicers
-* ##### Excel Pie Charts
 * ##### Excel Histograms
 
 <br/>
